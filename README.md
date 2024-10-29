@@ -64,3 +64,7 @@ This project uses the **Page Object Model (POM)** to keep the test logic and pag
 - **Page Objects**: Located in `cypress/pages/...`
 
 You can add new test cases and page objects as the framework expands.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
